@@ -2,8 +2,13 @@
 # !/**/
 # !*.*
 
+.vscode/
+bin/*
+!*.md
+
+*.ox
 *.exe
-*.exe.stackdump
+*.stackdump
 *.hack
 *.bin
 *.o
